@@ -7,4 +7,5 @@ IN (SELECT product_id,
     FROM Sales
     GROUP BY
         product_id
-    )
+    );
+
