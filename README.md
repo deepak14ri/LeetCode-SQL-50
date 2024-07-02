@@ -23,7 +23,7 @@ This repository contains solutions to the top 50 SQL problems on LeetCode, cover
 ## Latest Commit
 
 **Author:** deepak14ri  
-**Commit Message:** test  
+**Commit Message:** new problem solved  
 **Latest Commit Hash:** b6bce78  
 **Date:** 12 hours ago  
 
